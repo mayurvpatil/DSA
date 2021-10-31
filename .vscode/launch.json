@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FirstAndLastPostion",
+            "request": "launch",
+            "mainClass": "FirstAndLastPostion",
+            "projectName": "dsa_ea265009"
+        },
+        {
+            "type": "java",
+            "name": "Launch LetterGreaterThanTarget",
+            "request": "launch",
+            "mainClass": "LetterGreaterThanTarget",
+            "projectName": "dsa_ea265009"
+        },
+        {
+            "type": "java",
             "name": "Launch CycleSort",
             "request": "launch",
             "mainClass": "CycleSort",
